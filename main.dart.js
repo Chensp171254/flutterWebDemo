@@ -54934,7 +54934,7 @@ $S:605}
 A.aLn.prototype={
 $1(a){var s=A.qK().gyw().i(0,"route")
 s=B.Rr.i(0,s==null?"":s)
-return s==null?"\u4eea\u5668\u4fe1\u606f\u7f51111":s},
+return s==null?"\u4eea\u5668\u4fe1\u606f\u7f51":s},
 $S:638}
 A.aLm.prototype={
 $2(a,b){A.aZs(a,B.Vr)
@@ -71743,7 +71743,7 @@ this.f=A.p6().rK(0,"event",new A.aKK(this))},
 n(){var s=this.f
 if(s!=null)s.$0()
 this.aw()},
-D(a){var s=this,r=null,q=A.c([new A.h6("\u610f\u89c1\u53cd\u9988",new A.aKr()),new A.h6("\u4e70\u5bb6\u5927\u5c4f\u5c55\u793a",new A.aKs()),new A.h6("flutter\u8c03\u7528\u539f\u751f\u626b\u63cfDemo",new A.aKt()),new A.h6("\u670d\u52a1\u5546\u57ce",new A.aKA()),new A.h6("\u884c\u4e1a\u6d1e\u5bdf",new A.aKB()),new A.h6("return to native page with data",new A.aKC(s)),new A.h6("open flutter main page",new A.aKD(s)),new A.h6("open flutter simple page",new A.aKE(s)),new A.h6("push simplePage",new A.aKF(s,a)),new A.h6("dialog \u4ece\u539f\u751f\u91cc\u53d6\u7528\u6237\u540d\u79f0",new A.aKG(a)),new A.h6("open lifecycle test page",new A.aKH(s)),new A.h6("push replacement with Container",new A.aKu(s)),new A.h6("open dialog with container",new A.aKv()),new A.h6("send event to native",new A.aKw())],t.zp),p=A.bc("FlutterBoost Example",r,r,r,r,r,r,r,r),o=s.adu(),n=A.z(r,10,0),m=A.cY(5)
+D(a){var s=this,r=null,q=A.c([new A.h6("\u610f\u89c1\u53cd\u9988",new A.aKr()),new A.h6("\u4e70\u5bb6\u5927\u5c4f\u5c55\u793a",new A.aKs()),new A.h6("flutter\u8c03\u7528\u539f\u751f\u65b9\u6cd5Demo",new A.aKt()),new A.h6("\u670d\u52a1\u5546\u57ce",new A.aKA()),new A.h6("\u884c\u4e1a\u6d1e\u5bdf",new A.aKB()),new A.h6("return to native page with data",new A.aKC(s)),new A.h6("open flutter main page",new A.aKD(s)),new A.h6("open flutter simple page",new A.aKE(s)),new A.h6("push simplePage",new A.aKF(s,a)),new A.h6("dialog \u4ece\u539f\u751f\u91cc\u53d6\u7528\u6237\u540d\u79f0",new A.aKG(a)),new A.h6("open lifecycle test page",new A.aKH(s)),new A.h6("push replacement with Container",new A.aKu(s)),new A.h6("open dialog with container",new A.aKv()),new A.h6("send event to native",new A.aKw())],t.zp),p=A.bc("FlutterBoost Example",r,r,r,r,r,r,r,r),o=s.adu(),n=A.z(r,10,0),m=A.cY(5)
 return A.cU(r,A.kf(new A.CX(new A.CY(new A.aKx(),r,r,r),!0,p,r),A.n8(r,r,r,B.u,r,B.cn,r,!1,B.D,r,!1,A.c([new A.c3(n,r),new A.c3(new A.aW(B.cc,new A.D0(s.d,new A.a4(B.RO,r,r,m,r,r,r,B.n),B.pD,"input data ",B.Cl,B.cl,B.mx,B.my,!0,r),r),r),new A.c3(A.z(r,10,0),r),new A.c3(A.c8(A.bc("Data String is: "+s.a.c,r,r,r,r,A.a9(r,r,r,r,r,r,r,r,r,r,r,16*$.b().gq(),r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r,r),r,r),r),new A.c3(A.z(r,10,0),r),A.mg(new A.hM(new A.aKy(s,q),14,!0,!0,!0,r)),new A.c3(A.z(r,10,0),r)],t.p)),o,s.e,r),B.u,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,new A.aKz(a),r,r,r,r,r,r)},
 Pp(a){var s,r,q=null
 if(a==="null"||a.length===0)return
