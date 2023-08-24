@@ -71909,7 +71909,7 @@ A.aN3.prototype={
 $0(){new A.ww().ym(5)},
 $S:0}
 A.aN4.prototype={
-$0(){A.pO("https://github.com/Chensp171254/flutterWebDemo/?route=scanTestPage")},
+$0(){A.pO("https://chensp171254.github.io/flutterWebDemo/?route=scanTestPage")},
 $S:0}
 A.v1.prototype={
 V(){return new A.a5E(B.l)},
