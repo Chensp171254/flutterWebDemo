@@ -24,6 +24,10 @@ _flutter.loader = null;
     return uri.endsWith("/") ? uri : `${uri}/`;
   }
 
+  function FlutterCustom(args){
+       FlutterCustom.postMessage(args)
+  }
+
   /**
    * Wraps `promise` in a timeout of the given `duration` in ms.
    *
